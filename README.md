@@ -1,4 +1,6 @@
-﻿# Ninja WebSockets
+﻿# Ninja WebSockets "Upgraded"
+
+This is a fork of the original Ninja.WebSockets library with added SSL on the server and some other great things.
 
 A concrete implementation of the .Net Standard 2.0 System.Net.WebSockets.WebSocket abstract class
 
